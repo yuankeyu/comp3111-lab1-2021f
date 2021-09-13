@@ -2,9 +2,13 @@ package lab1Package;
 
 public class Library {
     public static void main(String arg[]){
-        System.out.println("Hello World!");
+        Library newLib = new Library();
+        if(newLib.someLibraryMethod()) {
+            System.out.println("Hello World!");
+        }
     }
     public boolean someLibraryMethod(){
+        System.out.println("Function Executed");
         return true;
     }
     public boolean anotherLibraryMethod(){
