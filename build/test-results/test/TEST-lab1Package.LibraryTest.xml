@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="lab1Package.LibraryTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-09-13T03:45:55" hostname="DESKTOP-ETRQ42B" time="0.025">
+<testsuite name="lab1Package.LibraryTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-09-19T08:45:32" hostname="DESKTOP-ETRQ42B" time="0.032">
   <properties/>
-  <testcase name="TestLibraryFunction()" classname="lab1Package.LibraryTest" time="0.022"/>
-  <testcase name="TestAnotherFunction()" classname="lab1Package.LibraryTest" time="0.002"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="TestLibraryFunction()" classname="lab1Package.LibraryTest" time="0.027"/>
+  <testcase name="TestAnotherFunction()" classname="lab1Package.LibraryTest" time="0.003"/>
+  <system-out><![CDATA[Function Executed
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
